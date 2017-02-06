@@ -21,7 +21,8 @@ avatar: yes
 #avatar_img_path: "imgs/avatar.jpg""
 # You can link to your GitHub image. That way it will get updated 
 # automatically whenever you change your GitHub profile picture
-avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+# avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+avatar_img_path: "https://uploads.toptal.io/user/photo/281231/large_3ff23c31d7cee7386672ecab23c7abd8.jpg"
 
 
 front_img: yes
