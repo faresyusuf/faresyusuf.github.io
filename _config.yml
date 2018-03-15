@@ -13,11 +13,12 @@ linkedin_username:	faresibneyyusuf
 # If you don't have a blog page delete the next line
 #blog_url: "/blog"
 resume_url:	"https://docs.google.com/document/d/1RpMq4cuiARcHb4KtKqcofZUxs09mL2RH_jKtxt71vOg/edit?usp=sharing"
-toptal_url: "http://www.toptal.com/java#productivity"
-#"https://www.toptal.com/#unite-only-top-tier-programmers-today"
-toptal_resume_url: "http://www.toptal.com/java#productivity"
-#"https://www.toptal.com/resume/fares-ibney-yusuf#unite-only-top-tier-programmers-today"
 
+#toptal 
+#"https://www.toptal.com/#unite-only-top-tier-programmers-today"
+#toptal_url: "http://www.toptal.com/java#productivity"
+toptal_url: "https://www.toptal.com/#unite-only-top-tier-programmers-today"
+toptal_resume_url: "https://www.toptal.com/resume/fares-ibney-yusuf#unite-only-top-tier-programmers-today"
 
 avatar: yes
 #avatar_img_path: "imgs/avatar.jpg""
